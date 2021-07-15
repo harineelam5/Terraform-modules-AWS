@@ -15,7 +15,7 @@ terraform plan --out=outputs.json --var-file=./env/UAT.tfvars
 ```sh
 terraform apply "outputs.json"
 ```
-# 4.Note
+# 4.Note kat
 ```sh
 Soon I will add each resource
 ```
